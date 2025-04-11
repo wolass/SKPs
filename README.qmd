@@ -11,20 +11,23 @@ knitr::opts_chunk$set(
   fig.path = "README-"
 )
 # Please put your title here to include it in the file below.
-Title <- "Title of your paper goes here"
+Title <- "A Proposal for Scientific Knowledge Packages (SKPs): A Modular and Reproducible Alternative to Traditional Scientific Publications"
 ```
 
 # SKPs
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh///master?urlpath=rstudio)
 
+
+The current system of scientific knowledge dissemination, primarily relying on PDF-based journal articles, presents significant challenges in terms of reproducibility, interoperability, and reusability. We propose a novel approach: Scientific Knowledge Packages (SKPs). SKPs are self-contained, modular units of scientific knowledge, encompassing data, code, metadata, and results in a standardized, human- and machine-readable formats. This proposal outlines the structure, metadata specifications, and potential benefits of SKPs, aiming to enhance scientific communication and collaboration.
+
 This repository contains the data and code for our paper:
 
-> Authors, (YYYY). _`r Title`_. Name of journal/book <https://doi.org/xxx/xxx>
+> Authors, (2025). _`r Title`_. Name of journal TBA <https://doi.org/xxx/xxx>
 
 Our pre-print is online here:
 
-> Authors, (YYYY). _`r Title`_. Name of journal/book, Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at <https://doi.org/xxx/xxx>
+> Authors, (2025). _`r Title`_. TBA, Accessed `r format(Sys.Date(), "%d %b %Y")`. Online at <https://doi.org/xxx/xxx>
 
 
 ### How to cite
